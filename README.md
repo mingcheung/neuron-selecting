@@ -1,1 +1,1 @@
-A method to defend adversarial examples.
+A method to defend against adversarial examples.
